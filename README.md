@@ -220,9 +220,9 @@ jupyter notebook RED_WINE_EDA.ipynb
 ## Contact:
 For any queries, feel free to reach out at:
 
-GitHub:     https://github.com/huzaifawaheed10/RED-WINE-EDA
+GitHub:    https://github.com/huzaifawaheed10/RED-WINE-EDA
 
-LinkedIn:    www.linkedin.com/in/malak-huzaifa-waheed-5654a2384
+LinkedIn:  www.linkedin.com/in/malak-huzaifa-waheed-5654a2384
 
 ---
 
